@@ -57,7 +57,7 @@ body{
 }
 
 
-#holder input{
+#holder input,select{
     padding: 8px 15px;
     width: 400px;
     font-size: 15px;
